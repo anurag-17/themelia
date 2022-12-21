@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/client-demo/themelia/static/css/main.bcc25698.css",
+    "main.js": "/client-demo/themelia/static/js/main.f633db6b.js",
+    "static/js/787.32f6f81a.chunk.js": "/client-demo/themelia/static/js/787.32f6f81a.chunk.js",
+    "static/media/home-banner.png": "/client-demo/themelia/static/media/home-banner.c14aa061a1eac0f9f8a9.png",
+    "static/media/INDIVIDUALS.png": "/client-demo/themelia/static/media/INDIVIDUALS.0e511b321d0d16168327.png",
+    "static/media/banner-img.png": "/client-demo/themelia/static/media/banner-img.dc258283cca76a85d62e.png",
+    "static/media/logo.svg": "/client-demo/themelia/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/client-demo/themelia/index.html",
+    "main.bcc25698.css.map": "/client-demo/themelia/static/css/main.bcc25698.css.map",
+    "main.f633db6b.js.map": "/client-demo/themelia/static/js/main.f633db6b.js.map",
+    "787.32f6f81a.chunk.js.map": "/client-demo/themelia/static/js/787.32f6f81a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcc25698.css",
+    "static/js/main.f633db6b.js"
+  ]
+}
